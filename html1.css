@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	color: darkblue;
+}
+section{
+	position: relative;
+	width: 500px;
+	left: 450px;
+	top: 30px;
+
+
+}
+table{
+	padding: 1em;
+	border: 2px solid blue;
+	color: teal;
+	background-color: lightblue;
+}
+td,tr{
+	padding: 1em;
+
+}
+#ln{
+	text-align: center;
+
+}
